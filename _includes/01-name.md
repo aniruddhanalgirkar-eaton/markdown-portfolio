@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Aniruddha N Nalgirkar
+## exploring on Zephyrproject
+### an open-source project
