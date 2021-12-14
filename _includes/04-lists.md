@@ -1,3 +1,4 @@
-party
-hiking
-exploring
+* exploring
+* travelling
+  * hiking
+  * cycling
