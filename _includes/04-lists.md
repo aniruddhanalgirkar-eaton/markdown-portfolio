@@ -1,0 +1,4 @@
+* exploring
+* travelling
+  * hiking
+  * cycling
